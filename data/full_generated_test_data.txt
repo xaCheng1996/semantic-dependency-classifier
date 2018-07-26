@@ -1,0 +1,16 @@
+卖当劳的汉堡/卖当劳/汉堡/B-error_area/B-product_name/0/4/-4/True
+卖当劳的汉堡/汉堡/卖当劳/B-product_name/B-error_area/4/0/4/False
+麦当老薯条加可乐/麦当老/薯条/B-error_area/B-product_name/0/3/-3/True
+麦当老薯条加可乐/麦当老/可乐/B-error_area/B-product_name/0/6/-6/True
+麦当老薯条加可乐/薯条/麦当老/B-product_name/B-error_area/3/0/3/False
+麦当老薯条加可乐/薯条/可乐/B-product_name/B-product_name/3/6/-3/False
+麦当老薯条加可乐/可乐/麦当老/B-product_name/B-error_area/6/0/6/False
+麦当老薯条加可乐/可乐/薯条/B-product_name/B-product_name/6/3/3/False
+一点点奶茶/一点点/奶茶/B-poi_name/B-product_name/0/3/-3/True
+一点点奶茶/奶茶/一点点/B-product_name/B-poi_name/3/0/3/False
+一点销量高的奶茶/一点/销量高/B-food_amount/B-product_sales/0/2/-2/False
+一点销量高的奶茶/一点/奶茶/B-food_amount/B-product_name/0/6/-6/True
+一点销量高的奶茶/销量高/一点/B-product_sales/B-food_amount/2/0/2/False
+一点销量高的奶茶/销量高/奶茶/B-product_sales/B-product_name/2/6/-4/True
+一点销量高的奶茶/奶茶/一点/B-product_name/B-food_amount/6/0/6/False
+一点销量高的奶茶/奶茶/销量高/B-product_name/B-product_sales/6/2/4/False

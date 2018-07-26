@@ -1,0 +1,12 @@
+我想来一份汉堡王/一份/汉堡王/B-food_amount/B-poi_name/4/6/-2/True
+我想来一份汉堡王/汉堡王/一份/B-poi_name/B-food_amount/6/4/2/False
+来一份金汉斯，要烤肉和蔬菜/一份/金汉斯/B-food_amount/B-poi_name/2/4/-2/True
+来一份金汉斯，要烤肉和蔬菜/金汉斯/烤肉/B-poi_name/B-product_name/4/9/-5/True
+来一份金汉斯，要烤肉和蔬菜/金汉斯/蔬菜/B-poi_name/B-food_classify/4/12/-8/True
+来一份金汉斯，要烤肉和蔬菜/烤肉/金汉斯/B-product_name/B-poi_name/9/4/5/False
+来一份金汉斯，要烤肉和蔬菜/烤肉/蔬菜/B-product_name/B-food_classify/9/12/-3/False
+来一份金汉斯，要烤肉和蔬菜/蔬菜/金汉斯/B-food_classify/B-poi_name/12/4/8/False
+给我点一份好吃的/一份/好吃的/B-food_amount/B-ref_pro/4/6/-2/True
+给我点一份好吃的/好吃的/一份/B-ref_pro/B-food_amount/6/4/2/False
+我想点一份金百万的地三鲜盖饭孕妇吃的再,加一份披萨/一份/地三鲜盖饭/B-food_amount/B-product_name/4/10/-6/True
+我想点一份金百万的地三鲜盖饭孕妇吃的再,加一份披萨/金百万/地三鲜盖饭/B-poi_name/B-product_name/6/10/-4/True
